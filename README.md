@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Senior Engineer with On AG, working on Commerce Platform, Discounting and core ECom systems.
+I'm a Senior Engineer with On AG, working on Purchase, Discounting and core ECom systems.
 
 
 ## 🌐 Socials:
